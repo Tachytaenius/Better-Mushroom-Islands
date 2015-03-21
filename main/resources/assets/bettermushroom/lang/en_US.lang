@@ -1,0 +1,9 @@
+item.mushroom_leather.name=Red Mooshroom Leather
+item.cooked_shroomeat.name=Mooshroom Steak
+item.raw_shroomeat.name=Raw Shroomeat
+item.redmooshroomHelmet.name=Red Mooshroom Cap
+item.redmooshroomBody.name=Red Mooshroom Tunic
+item.redmooshroomLegs.name=Red Mooshroom Pants
+item.redmooshroomBoots.name=Red Mooshroom Boots
+
+itemGroup.tabMod=Better Mushroom Islands

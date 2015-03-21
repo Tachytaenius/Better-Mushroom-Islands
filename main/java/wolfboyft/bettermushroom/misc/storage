@@ -1,0 +1,22 @@
+Clipboard storage!
+
+1{
+
+}
+
+2{
+new int[] {2, 4, 3, 2}
+}
+
+3{
+        mooshroom_helm = new ItemArmor(EnumArmour.REDMOOSHROOM, 0, 0).setUnlocalizedName("mooshroom_helm").setCreativeTab(BetterMushroom.tabMod);
+}
+
+4{
+}
+
+5{
+   
+}
+
+End.
