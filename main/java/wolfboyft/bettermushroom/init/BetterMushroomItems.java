@@ -41,10 +41,6 @@ public class BetterMushroomItems {
 		GameRegistry.registerItem(cooked_shroomeat, cooked_shroomeat.getUnlocalizedName().substring(5));
 		GameRegistry.registerItem(raw_shroomeat, raw_shroomeat.getUnlocalizedName().substring(5));
 		GameRegistry.addSmelting(raw_shroomeat, new ItemStack(cooked_shroomeat), 1.0F);
-        GameRegistry.registerItem(mooshroom_helm, mooshroom_helm.getUnlocalizedName().substring(5));
-        GameRegistry.registerItem(mooshroom_chest, mooshroom_chest.getUnlocalizedName().substring(5));
-        GameRegistry.registerItem(mooshroom_legs, mooshroom_legs.getUnlocalizedName().substring(5));
-        GameRegistry.registerItem(mooshroom_boots, mooshroom_boots.getUnlocalizedName().substring(5));
         GameRegistry.addRecipe(new ItemStack(mooshroom_helm, 1),
         		    	"AAA",
         		    	"A A",
